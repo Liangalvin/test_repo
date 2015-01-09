@@ -1,4 +1,4 @@
-def see_ya
+def ciao
   p "hello"
   p "ciao"
 end
